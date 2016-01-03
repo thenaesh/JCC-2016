@@ -8,6 +8,7 @@ interface Ord<T> extends Eq<T> {
 }
 
 
+
 /*
  * Eq implemented in a 2D vector class
  * Comparison performed on the individual components
